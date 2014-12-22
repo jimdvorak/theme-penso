@@ -1,7 +1,7 @@
 theme-penso
 ===========
 
-The official theme repo for Penso. Fork this to use it as a boilerplate.
+The official theme repo for Penso. Fork this to use it as a boilerplate. Hi.
 
 ## Getting Started
 
